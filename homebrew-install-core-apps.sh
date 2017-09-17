@@ -13,7 +13,9 @@ brew cask install sublime-text
 brew cask install teamviewer
 brew cask install the-unarchiver
 brew cask install unison
-brew cask install utorrent
+brew cask install private-internet-access
+brew cask install 1password
+brew cask install microsoft-remote-desktop-beta
 brew cask install vmware-remote-console
 brew cask install docker
 brew cask install docker-toolbox

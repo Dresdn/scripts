@@ -15,11 +15,11 @@ brew cask install the-unarchiver
 brew cask install unison
 brew cask install private-internet-access
 brew cask install 1password
-brew cask install microsoft-remote-desktop-beta
-brew cask install vmware-remote-console
-brew cask install docker
-brew cask install docker-toolbox
+#brew cask install microsoft-remote-desktop-beta
+#brew cask install vmware-remote-console
+#brew cask install docker
+#brew cask install docker-toolbox
 brew install macvim
-brew install dockutil
+#brew install dockutil
 brew install gpg
 brew cask install java
